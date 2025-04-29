@@ -15,6 +15,16 @@ jobs:
         with:
           persist-credentials: true
 
+      - name: List repo contents (debug)
+        run: |
+          echo "=== ROOT CONTENTS ==="
+          ls -R .
+
+      - name: List images/ folder (debug)
+        run: |
+          echo "=== images/ CONTENTS ==="
+          ls -R images || echo "images/ not found!"
+
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
@@ -24,18 +34,28 @@ jobs:
         working-directory: ./scripts
         run: npm install
 
-      - name: Generate mapping.json
+      - name: Show scripts folder (debug)
+        working-directory: ./scripts
+        run: |
+          echo "=== scripts/ CONTENTS ==="
+          ls -R .
+
+      - name: Generate mapping.json (debug logs)
         working-directory: ./scripts
         env:
           GITHUB_REPOSITORY_OWNER: ${{ github.repository_owner }}
           GITHUB_REPOSITORY:       ${{ github.repository }}
-        run: npm run generate
+        run: |
+          echo "Running generateMapping.js..."
+          node generateMapping.js
+          echo "=== GENERATED mapping.json ==="
+          cat ../mapping.json || echo "mapping.json not found!"
 
       - name: Commit mapping.json
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add mapping.json
-          # Solo commitea si hay cambios
           git diff --quiet || git commit -m "chore: update mapping.json"
           git push
+
