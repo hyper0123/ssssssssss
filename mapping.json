@@ -30,6 +30,12 @@
     "type": "national"
   },
   {
+    "slug": "bologna-football-club-italia",
+    "url": "https://hyper0123.github.io/ssssssssss/images/bologna-football-club-italia.png",
+    "country": "italia",
+    "type": "club"
+  },
+  {
     "slug": "brasil",
     "url": "https://hyper0123.github.io/ssssssssss/images/brasil.png",
     "country": "brasil",
@@ -64,6 +70,18 @@
     "url": "https://hyper0123.github.io/ssssssssss/images/chile.png",
     "country": "chile",
     "type": "national"
+  },
+  {
+    "slug": "club-ac-milan-italia",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-ac-milan-italia.png",
+    "country": "italia",
+    "type": "club"
+  },
+  {
+    "slug": "club-atalanta-bergamo-italia",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-atalanta-bergamo-italia.png",
+    "country": "italia",
+    "type": "club"
   },
   {
     "slug": "club-athletic-bilbao-espana",
@@ -222,6 +240,18 @@
     "type": "club"
   },
   {
+    "slug": "club-cagliari-calcio-italia",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-cagliari-calcio-italia.png",
+    "country": "italia",
+    "type": "club"
+  },
+  {
+    "slug": "club-como-italia",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-como-italia.png",
+    "country": "italia",
+    "type": "club"
+  },
+  {
     "slug": "club-de-gimnasia-y-esgrima-la-plata-argentina",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-de-gimnasia-y-esgrima-la-plata-argentina.png",
     "country": "argentina",
@@ -258,8 +288,26 @@
     "type": "club"
   },
   {
+    "slug": "club-fiorentina-italia",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-fiorentina-italia.png",
+    "country": "italia",
+    "type": "club"
+  },
+  {
     "slug": "club-inter-de-milan-italia",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-inter-de-milan-italia.png",
+    "country": "italia",
+    "type": "club"
+  },
+  {
+    "slug": "club-juventus-italia",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-juventus-italia.png",
+    "country": "italia",
+    "type": "club"
+  },
+  {
+    "slug": "club-lazio-italia",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-lazio-italia.png",
     "country": "italia",
     "type": "club"
   },
@@ -267,6 +315,24 @@
     "slug": "club-manchester-united-england",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-manchester-united-england.png",
     "country": "england",
+    "type": "club"
+  },
+  {
+    "slug": "club-monza-italia",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-monza-italia.png",
+    "country": "italia",
+    "type": "club"
+  },
+  {
+    "slug": "club-napoli-italia",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-napoli-italia.png",
+    "country": "italia",
+    "type": "club"
+  },
+  {
+    "slug": "club-parma-italia",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-parma-italia.png",
+    "country": "italia",
     "type": "club"
   },
   {
@@ -288,6 +354,12 @@
     "type": "club"
   },
   {
+    "slug": "club-roma-italia",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-roma-italia.png",
+    "country": "italia",
+    "type": "club"
+  },
+  {
     "slug": "club-social-y-deportivo-defensa-y-justicia-argentina",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-social-y-deportivo-defensa-y-justicia-argentina.png",
     "country": "argentina",
@@ -300,9 +372,39 @@
     "type": "club"
   },
   {
+    "slug": "club-torino-italia",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-torino-italia.png",
+    "country": "italia",
+    "type": "club"
+  },
+  {
+    "slug": "club-udinese-italia",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-udinese-italia.png",
+    "country": "italia",
+    "type": "club"
+  },
+  {
     "slug": "club-union-deportiva-las-palmas-espana",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-union-deportiva-las-palmas-espana.png",
     "country": "espana",
+    "type": "club"
+  },
+  {
+    "slug": "club-us-lece-italia",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-us-lece-italia.png",
+    "country": "italia",
+    "type": "club"
+  },
+  {
+    "slug": "club-venezia-italia",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-venezia-italia.png",
+    "country": "italia",
+    "type": "club"
+  },
+  {
+    "slug": "club-verona-italia",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-verona-italia.png",
+    "country": "italia",
     "type": "club"
   },
   {
@@ -324,6 +426,12 @@
     "type": "national"
   },
   {
+    "slug": "empoli-football-club-italia",
+    "url": "https://hyper0123.github.io/ssssssssss/images/empoli-football-club-italia.png",
+    "country": "italia",
+    "type": "club"
+  },
+  {
     "slug": "everton-football-club-england",
     "url": "https://hyper0123.github.io/ssssssssss/images/everton-football-club-england.png",
     "country": "england",
@@ -339,6 +447,12 @@
     "slug": "futbol-club-barcelona-espana",
     "url": "https://hyper0123.github.io/ssssssssss/images/futbol-club-barcelona-espana.png",
     "country": "espana",
+    "type": "club"
+  },
+  {
+    "slug": "genoa-cricket-football-club-italia",
+    "url": "https://hyper0123.github.io/ssssssssss/images/genoa-cricket-football-club-italia.png",
+    "country": "italia",
     "type": "club"
   },
   {
