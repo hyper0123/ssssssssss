@@ -10,23 +10,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
         with:
           persist-credentials: true
 
-      - name: List repo contents (debug)
-        run: |
-          echo "=== ROOT CONTENTS ==="
-          ls -R .
-
-      - name: List images/ folder (debug)
-        run: |
-          echo "=== images/ CONTENTS ==="
-          ls -R images || echo "images/ not found!"
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
+      - uses: actions/setup-node@v4
         with:
           node-version: '18'
 
@@ -34,28 +22,22 @@ jobs:
         working-directory: ./scripts
         run: npm install
 
-      - name: Show scripts folder (debug)
-        working-directory: ./scripts
-        run: |
-          echo "=== scripts/ CONTENTS ==="
-          ls -R .
-
-      - name: Generate mapping.json (debug logs)
+      - name: Generate mapping.json
         working-directory: ./scripts
         env:
           GITHUB_REPOSITORY_OWNER: ${{ github.repository_owner }}
           GITHUB_REPOSITORY:       ${{ github.repository }}
-        run: |
-          echo "Running generateMapping.js..."
-          node generateMapping.js
-          echo "=== GENERATED mapping.json ==="
-          cat ../mapping.json || echo "mapping.json not found!"
+        run: npm run generate
 
       - name: Commit mapping.json
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add mapping.json
-          git diff --quiet || git commit -m "chore: update mapping.json"
-          git push
-
+          # Ahora comparamos el 'staged' contra HEAD
+          if ! git diff --cached --quiet HEAD -- mapping.json; then
+            git commit -m "chore: update mapping.json"
+            git push
+          else
+            echo "No changes in mapping.json, skipping commit."
+          fi
