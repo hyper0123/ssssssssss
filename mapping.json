@@ -1,9 +1,39 @@
 [
   {
+    "slug": "argentina",
+    "url": "https://hyper0123.github.io/ssssssssss/images/argentina.png",
+    "country": "argentina",
+    "type": "national"
+  },
+  {
     "slug": "arsenal-football-club-inglaterra",
     "url": "https://hyper0123.github.io/ssssssssss/images/arsenal-football-club-inglaterra.png",
     "country": "inglaterra",
     "type": "club"
+  },
+  {
+    "slug": "bolivia",
+    "url": "https://hyper0123.github.io/ssssssssss/images/bolivia.png",
+    "country": "bolivia",
+    "type": "national"
+  },
+  {
+    "slug": "brasil",
+    "url": "https://hyper0123.github.io/ssssssssss/images/brasil.png",
+    "country": "brasil",
+    "type": "national"
+  },
+  {
+    "slug": "brazil",
+    "url": "https://hyper0123.github.io/ssssssssss/images/brazil.png",
+    "country": "brazil",
+    "type": "national"
+  },
+  {
+    "slug": "chile",
+    "url": "https://hyper0123.github.io/ssssssssss/images/chile.png",
+    "country": "chile",
+    "type": "national"
   },
   {
     "slug": "club-athletic-bilbao-espana",
@@ -234,6 +264,18 @@
     "type": "club"
   },
   {
+    "slug": "colombia",
+    "url": "https://hyper0123.github.io/ssssssssss/images/colombia.png",
+    "country": "colombia",
+    "type": "national"
+  },
+  {
+    "slug": "ecuador",
+    "url": "https://hyper0123.github.io/ssssssssss/images/ecuador.png",
+    "country": "ecuador",
+    "type": "national"
+  },
+  {
     "slug": "futbol-club-barcelona-espana",
     "url": "https://hyper0123.github.io/ssssssssss/images/futbol-club-barcelona-espana.png",
     "country": "espana",
@@ -250,6 +292,18 @@
     "url": "https://hyper0123.github.io/ssssssssss/images/girona-futbol-club-espana.png",
     "country": "espana",
     "type": "club"
+  },
+  {
+    "slug": "paraguay",
+    "url": "https://hyper0123.github.io/ssssssssss/images/paraguay.png",
+    "country": "paraguay",
+    "type": "national"
+  },
+  {
+    "slug": "peru",
+    "url": "https://hyper0123.github.io/ssssssssss/images/peru.png",
+    "country": "peru",
+    "type": "national"
   },
   {
     "slug": "psg-football-club-francia",
@@ -300,10 +354,22 @@
     "type": "club"
   },
   {
+    "slug": "uruguay",
+    "url": "https://hyper0123.github.io/ssssssssss/images/uruguay.png",
+    "country": "uruguay",
+    "type": "national"
+  },
+  {
     "slug": "valencia-club-de-futbol-espana",
     "url": "https://hyper0123.github.io/ssssssssss/images/valencia-club-de-futbol-espana.png",
     "country": "espana",
     "type": "club"
+  },
+  {
+    "slug": "venezuela",
+    "url": "https://hyper0123.github.io/ssssssssss/images/venezuela.png",
+    "country": "venezuela",
+    "type": "national"
   },
   {
     "slug": "villarreal-club-de-futbol-espana",
