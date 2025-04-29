@@ -6,6 +6,12 @@
     "type": "club"
   },
   {
+    "slug": "club-athletic-bilbao-espana",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-athletic-bilbao-espana.png",
+    "country": "espana",
+    "type": "club"
+  },
+  {
     "slug": "club-atletico-aldosivi-argentina",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-atletico-aldosivi-argentina.png",
     "country": "argentina",
@@ -72,9 +78,21 @@
     "type": "club"
   },
   {
+    "slug": "club-atletico-madrid-espana",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-atletico-madrid-espana.png",
+    "country": "espana",
+    "type": "club"
+  },
+  {
     "slug": "club-atletico-newell-s-old-boys-argentina",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-atletico-newell-s-old-boys-argentina.png",
     "country": "argentina",
+    "type": "club"
+  },
+  {
+    "slug": "club-atletico-osasuna-espana",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-atletico-osasuna-espana.png",
+    "country": "espana",
     "type": "club"
   },
   {
@@ -150,9 +168,21 @@
     "type": "club"
   },
   {
+    "slug": "club-deportivo-alaves-espana",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-deportivo-alaves-espana.png",
+    "country": "espana",
+    "type": "club"
+  },
+  {
     "slug": "club-deportivo-godoy-cruz-antonio-tomba-argentina",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-deportivo-godoy-cruz-antonio-tomba-argentina.png",
     "country": "argentina",
+    "type": "club"
+  },
+  {
+    "slug": "club-deportivo-leganes-espana",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-deportivo-leganes-espana.png",
+    "country": "espana",
     "type": "club"
   },
   {
@@ -168,6 +198,24 @@
     "type": "club"
   },
   {
+    "slug": "club-rayo-vallecano-espana",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-rayo-vallecano-espana.png",
+    "country": "espana",
+    "type": "club"
+  },
+  {
+    "slug": "club-rcd-espanyol-espana",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-rcd-espanyol-espana.png",
+    "country": "espana",
+    "type": "club"
+  },
+  {
+    "slug": "club-real-betis-espana",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-real-betis-espana.png",
+    "country": "espana",
+    "type": "club"
+  },
+  {
     "slug": "club-social-y-deportivo-defensa-y-justicia-argentina",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-social-y-deportivo-defensa-y-justicia-argentina.png",
     "country": "argentina",
@@ -180,6 +228,30 @@
     "type": "club"
   },
   {
+    "slug": "club-union-deportiva-las-palmas-espana",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-union-deportiva-las-palmas-espana.png",
+    "country": "espana",
+    "type": "club"
+  },
+  {
+    "slug": "futbol-club-barcelona-espana",
+    "url": "https://hyper0123.github.io/ssssssssss/images/futbol-club-barcelona-espana.png",
+    "country": "espana",
+    "type": "club"
+  },
+  {
+    "slug": "getafe-club-de-futbol-espana",
+    "url": "https://hyper0123.github.io/ssssssssss/images/getafe-club-de-futbol-espana.png",
+    "country": "espana",
+    "type": "club"
+  },
+  {
+    "slug": "girona-futbol-club-espana",
+    "url": "https://hyper0123.github.io/ssssssssss/images/girona-futbol-club-espana.png",
+    "country": "espana",
+    "type": "club"
+  },
+  {
     "slug": "psg-football-club-francia",
     "url": "https://hyper0123.github.io/ssssssssss/images/psg-football-club-francia.png",
     "country": "francia",
@@ -189,6 +261,54 @@
     "slug": "racing-club-argentina",
     "url": "https://hyper0123.github.io/ssssssssss/images/racing-club-argentina.png",
     "country": "argentina",
+    "type": "club"
+  },
+  {
+    "slug": "real-club-celta-de-vigo-espana",
+    "url": "https://hyper0123.github.io/ssssssssss/images/real-club-celta-de-vigo-espana.png",
+    "country": "espana",
+    "type": "club"
+  },
+  {
+    "slug": "real-club-deportivo-mallorca-espana",
+    "url": "https://hyper0123.github.io/ssssssssss/images/real-club-deportivo-mallorca-espana.png",
+    "country": "espana",
+    "type": "club"
+  },
+  {
+    "slug": "real-madrid-club-de-futbol-espana",
+    "url": "https://hyper0123.github.io/ssssssssss/images/real-madrid-club-de-futbol-espana.png",
+    "country": "espana",
+    "type": "club"
+  },
+  {
+    "slug": "real-sociedad-club-de-futbol-espana",
+    "url": "https://hyper0123.github.io/ssssssssss/images/real-sociedad-club-de-futbol-espana.png",
+    "country": "espana",
+    "type": "club"
+  },
+  {
+    "slug": "real-valladolid-club-de-futbol-espana",
+    "url": "https://hyper0123.github.io/ssssssssss/images/real-valladolid-club-de-futbol-espana.png",
+    "country": "espana",
+    "type": "club"
+  },
+  {
+    "slug": "sevilla-futbol-club-espana",
+    "url": "https://hyper0123.github.io/ssssssssss/images/sevilla-futbol-club-espana.png",
+    "country": "espana",
+    "type": "club"
+  },
+  {
+    "slug": "valencia-club-de-futbol-espana",
+    "url": "https://hyper0123.github.io/ssssssssss/images/valencia-club-de-futbol-espana.png",
+    "country": "espana",
+    "type": "club"
+  },
+  {
+    "slug": "villarreal-club-de-futbol-espana",
+    "url": "https://hyper0123.github.io/ssssssssss/images/villarreal-club-de-futbol-espana.png",
+    "country": "espana",
     "type": "club"
   }
 ]
