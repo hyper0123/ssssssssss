@@ -1,4 +1,3 @@
-# .github/workflows/generate-mapping.yml
 name: Generate mapping.json
 
 on:
@@ -9,29 +8,34 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repo
+        uses: actions/checkout@v4
         with:
           persist-credentials: true
 
-      - uses: actions/setup-node@v4
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
           node-version: '18'
 
-      - name: Install deps
+      - name: Install npm dependencies
         working-directory: ./scripts
         run: npm install
 
       - name: Generate mapping.json
+        working-directory: ./scripts
         env:
           GITHUB_REPOSITORY_OWNER: ${{ github.repository_owner }}
           GITHUB_REPOSITORY:       ${{ github.repository }}
-        run: node generateMapping.js
+        run: npm run generate
 
       - name: Commit mapping.json
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add mapping.json
-          git diff --quiet && echo "No changes" || git commit -m "chore: update mapping.json"
+          # Solo commitea si hay cambios
+          git diff --quiet || git commit -m "chore: update mapping.json"
           git push
