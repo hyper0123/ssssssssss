@@ -306,6 +306,12 @@
     "type": "club"
   },
   {
+    "slug": "club-bragantino-brasil",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-bragantino-brasil.png",
+    "country": "brasil",
+    "type": "club"
+  },
+  {
     "slug": "club-bucaramanga-ecuador",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-bucaramanga-ecuador.png",
     "country": "ecuador",
@@ -339,6 +345,12 @@
     "slug": "club-como-italia",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-como-italia.png",
     "country": "italia",
+    "type": "club"
+  },
+  {
+    "slug": "club-criciuma-brasil",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-criciuma-brasil.png",
+    "country": "brasil",
     "type": "club"
   },
   {
