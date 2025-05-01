@@ -294,15 +294,15 @@
     "type": "club"
   },
   {
-    "slug": "club-inter-de-milan-italia",
-    "url": "https://hyper0123.github.io/ssssssssss/images/club-inter-de-milan-italia.png",
-    "country": "italia",
-    "type": "club"
-  },
-  {
     "slug": "club-inter-miami-usa",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-inter-miami-usa.png",
     "country": "usa",
+    "type": "club"
+  },
+  {
+    "slug": "club-inter-milan-italia",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-inter-milan-italia.png",
+    "country": "italia",
     "type": "club"
   },
   {
