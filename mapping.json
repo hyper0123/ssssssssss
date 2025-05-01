@@ -306,12 +306,6 @@
     "type": "club"
   },
   {
-    "slug": "club-bragantino-brasil",
-    "url": "https://hyper0123.github.io/ssssssssss/images/club-bragantino-brasil.png",
-    "country": "brasil",
-    "type": "club"
-  },
-  {
     "slug": "club-bucaramanga-ecuador",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-bucaramanga-ecuador.png",
     "country": "ecuador",
@@ -555,6 +549,12 @@
     "slug": "club-rayo-vallecano-espana",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-rayo-vallecano-espana.png",
     "country": "espana",
+    "type": "club"
+  },
+  {
+    "slug": "club-rb-bragantino-brasil",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-rb-bragantino-brasil.png",
+    "country": "brasil",
     "type": "club"
   },
   {
