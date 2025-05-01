@@ -240,6 +240,36 @@
     "type": "club"
   },
   {
+    "slug": "club-bayer-leverkusen-alemania",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-bayer-leverkusen-alemania.png",
+    "country": "alemania",
+    "type": "club"
+  },
+  {
+    "slug": "club-bayern-munich-alemania",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-bayern-munich-alemania.png",
+    "country": "alemania",
+    "type": "club"
+  },
+  {
+    "slug": "club-bochum-alemania",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-bochum-alemania.png",
+    "country": "alemania",
+    "type": "club"
+  },
+  {
+    "slug": "club-borussia-dortmund",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-borussia-dortmund.png",
+    "country": "dortmund",
+    "type": "club"
+  },
+  {
+    "slug": "club-borussia-monchengladbach-alemania",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-borussia-monchengladbach-alemania.png",
+    "country": "alemania",
+    "type": "club"
+  },
+  {
     "slug": "club-cagliari-calcio-italia",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-cagliari-calcio-italia.png",
     "country": "italia",
@@ -282,15 +312,51 @@
     "type": "club"
   },
   {
+    "slug": "club-eintracht-frankfurt-alemania",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-eintracht-frankfurt-alemania.png",
+    "country": "alemania",
+    "type": "club"
+  },
+  {
     "slug": "club-estudiantes-de-la-plata-argentina",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-estudiantes-de-la-plata-argentina.png",
     "country": "argentina",
     "type": "club"
   },
   {
+    "slug": "club-fc-augsburg-alemania",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-fc-augsburg-alemania.png",
+    "country": "alemania",
+    "type": "club"
+  },
+  {
+    "slug": "club-fc-heidenheim-alemania",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-fc-heidenheim-alemania.png",
+    "country": "alemania",
+    "type": "club"
+  },
+  {
     "slug": "club-fiorentina-italia",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-fiorentina-italia.png",
     "country": "italia",
+    "type": "club"
+  },
+  {
+    "slug": "club-freiburg-alemania",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-freiburg-alemania.png",
+    "country": "alemania",
+    "type": "club"
+  },
+  {
+    "slug": "club-hoffenheim-alemania",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-hoffenheim-alemania.png",
+    "country": "alemania",
+    "type": "club"
+  },
+  {
+    "slug": "club-holstein-kiel-alemania",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-holstein-kiel-alemania.png",
+    "country": "alemania",
     "type": "club"
   },
   {
@@ -315,6 +381,12 @@
     "slug": "club-lazio-italia",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-lazio-italia.png",
     "country": "italia",
+    "type": "club"
+  },
+  {
+    "slug": "club-mainz-alemania",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-mainz-alemania.png",
+    "country": "alemania",
     "type": "club"
   },
   {
@@ -348,6 +420,12 @@
     "type": "club"
   },
   {
+    "slug": "club-rb-leipzig-alemania",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-rb-leipzig-alemania.png",
+    "country": "alemania",
+    "type": "club"
+  },
+  {
     "slug": "club-rcd-espanyol-espana",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-rcd-espanyol-espana.png",
     "country": "espana",
@@ -378,6 +456,18 @@
     "type": "club"
   },
   {
+    "slug": "club-st-pauli-alemania",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-st-pauli-alemania.png",
+    "country": "alemania",
+    "type": "club"
+  },
+  {
+    "slug": "club-stuttgart-alemania",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-stuttgart-alemania.png",
+    "country": "alemania",
+    "type": "club"
+  },
+  {
     "slug": "club-torino-italia",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-torino-italia.png",
     "country": "italia",
@@ -387,6 +477,12 @@
     "slug": "club-udinese-italia",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-udinese-italia.png",
     "country": "italia",
+    "type": "club"
+  },
+  {
+    "slug": "club-union-berlin-alemania",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-union-berlin-alemania.png",
+    "country": "alemania",
     "type": "club"
   },
   {
@@ -411,6 +507,18 @@
     "slug": "club-verona-italia",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-verona-italia.png",
     "country": "italia",
+    "type": "club"
+  },
+  {
+    "slug": "club-werder-remen-alemania",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-werder-remen-alemania.png",
+    "country": "alemania",
+    "type": "club"
+  },
+  {
+    "slug": "club-wolfsburg-alemania",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-wolfsburg-alemania.png",
+    "country": "alemania",
     "type": "club"
   },
   {
