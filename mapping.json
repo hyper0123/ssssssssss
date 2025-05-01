@@ -348,6 +348,12 @@
     "type": "club"
   },
   {
+    "slug": "club-crb-brasil",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-crb-brasil.png",
+    "country": "brasil",
+    "type": "club"
+  },
+  {
     "slug": "club-criciuma-brasil",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-criciuma-brasil.png",
     "country": "brasil",
@@ -579,6 +585,12 @@
     "slug": "club-san-antonio-bulo-bulo-bolivia",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-san-antonio-bulo-bulo-bolivia.png",
     "country": "bolivia",
+    "type": "club"
+  },
+  {
+    "slug": "club-santos-brasil",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-santos-brasil.png",
+    "country": "brasil",
     "type": "club"
   },
   {
