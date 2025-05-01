@@ -336,6 +336,12 @@
     "type": "club"
   },
   {
+    "slug": "club-comerciantes-unidos-peru",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-comerciantes-unidos-peru.png",
+    "country": "peru",
+    "type": "club"
+  },
+  {
     "slug": "club-como-italia",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-como-italia.png",
     "country": "italia",
@@ -350,6 +356,18 @@
   {
     "slug": "club-criciuma-brasil",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-criciuma-brasil.png",
+    "country": "brasil",
+    "type": "club"
+  },
+  {
+    "slug": "club-cruz-azul-mexico",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-cruz-azul-mexico.png",
+    "country": "mexico",
+    "type": "club"
+  },
+  {
+    "slug": "club-cruzeiro-brasil",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-cruzeiro-brasil.png",
     "country": "brasil",
     "type": "club"
   },
@@ -504,6 +522,12 @@
     "type": "club"
   },
   {
+    "slug": "club-melgar-peru",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-melgar-peru.png",
+    "country": "peru",
+    "type": "club"
+  },
+  {
     "slug": "club-monza-italia",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-monza-italia.png",
     "country": "italia",
@@ -630,6 +654,12 @@
     "type": "club"
   },
   {
+    "slug": "club-tigres-uanl-mexico",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-tigres-uanl-mexico.png",
+    "country": "mexico",
+    "type": "club"
+  },
+  {
     "slug": "club-torino-italia",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-torino-italia.png",
     "country": "italia",
@@ -681,6 +711,12 @@
     "slug": "club-verona-italia",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-verona-italia.png",
     "country": "italia",
+    "type": "club"
+  },
+  {
+    "slug": "club-vila-nova-brasil",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-vila-nova-brasil.png",
+    "country": "brasil",
     "type": "club"
   },
   {
