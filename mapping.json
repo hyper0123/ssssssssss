@@ -36,6 +36,12 @@
     "type": "club"
   },
   {
+    "slug": "boston-red-sox-otros",
+    "url": "https://hyper0123.github.io/ssssssssss/images/boston-red-sox-otros.png",
+    "country": "otros",
+    "type": "club"
+  },
+  {
     "slug": "brasil",
     "url": "https://hyper0123.github.io/ssssssssss/images/brasil.png",
     "country": "brasil",
@@ -900,6 +906,12 @@
     "type": "club"
   },
   {
+    "slug": "toronto-blue-jays-otros",
+    "url": "https://hyper0123.github.io/ssssssssss/images/toronto-blue-jays-otros.png",
+    "country": "otros",
+    "type": "club"
+  },
+  {
     "slug": "tottenham-hotspur-football-club-england",
     "url": "https://hyper0123.github.io/ssssssssss/images/tottenham-hotspur-football-club-england.png",
     "country": "england",
@@ -927,6 +939,12 @@
     "slug": "villarreal-club-de-futbol-espana",
     "url": "https://hyper0123.github.io/ssssssssss/images/villarreal-club-de-futbol-espana.png",
     "country": "espana",
+    "type": "club"
+  },
+  {
+    "slug": "washington-nationals-otros",
+    "url": "https://hyper0123.github.io/ssssssssss/images/washington-nationals-otros.png",
+    "country": "otros",
     "type": "club"
   },
   {
