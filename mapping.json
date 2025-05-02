@@ -318,6 +318,12 @@
     "type": "club"
   },
   {
+    "slug": "club-cadiz-espana",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-cadiz-espana.png",
+    "country": "espana",
+    "type": "club"
+  },
+  {
     "slug": "club-cagliari-calcio-italia",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-cagliari-calcio-italia.png",
     "country": "italia",
@@ -351,6 +357,12 @@
     "slug": "club-como-italia",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-como-italia.png",
     "country": "italia",
+    "type": "club"
+  },
+  {
+    "slug": "club-cordoba-espana",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-cordoba-espana.png",
+    "country": "espana",
     "type": "club"
   },
   {
