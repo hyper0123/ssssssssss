@@ -438,12 +438,6 @@
     "type": "club"
   },
   {
-    "slug": "club-deportico-recoleta-paraguay",
-    "url": "https://hyper0123.github.io/ssssssssss/images/club-deportico-recoleta-paraguay.png",
-    "country": "paraguay",
-    "type": "club"
-  },
-  {
     "slug": "club-deportivo-alaves-espana",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-deportivo-alaves-espana.png",
     "country": "espana",
@@ -465,6 +459,12 @@
     "slug": "club-deportivo-leganes-espana",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-deportivo-leganes-espana.png",
     "country": "espana",
+    "type": "club"
+  },
+  {
+    "slug": "club-deportivo-recoleta-paraguay",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-deportivo-recoleta-paraguay.png",
+    "country": "paraguay",
     "type": "club"
   },
   {
