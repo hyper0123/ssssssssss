@@ -102,6 +102,12 @@
     "type": "club"
   },
   {
+    "slug": "club-antalyaspor-turquia",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-antalyaspor-turquia.png",
+    "country": "turquia",
+    "type": "club"
+  },
+  {
     "slug": "club-atalanta-bergamo-italia",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-atalanta-bergamo-italia.png",
     "country": "italia",
@@ -573,6 +579,12 @@
     "slug": "club-juventus-italia",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-juventus-italia.png",
     "country": "italia",
+    "type": "club"
+  },
+  {
+    "slug": "club-konyaspor-turquia",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-konyaspor-turquia.png",
+    "country": "turquia",
     "type": "club"
   },
   {
