@@ -906,6 +906,12 @@
     "type": "club"
   },
   {
+    "slug": "estados unidos",
+    "url": "https://hyper0123.github.io/ssssssssss/images/estados%20unidos.png",
+    "country": "estados unidos",
+    "type": "national"
+  },
+  {
     "slug": "everton-football-club-england",
     "url": "https://hyper0123.github.io/ssssssssss/images/everton-football-club-england.png",
     "country": "england",
@@ -1065,6 +1071,12 @@
     "slug": "uruguay",
     "url": "https://hyper0123.github.io/ssssssssss/images/uruguay.png",
     "country": "uruguay",
+    "type": "national"
+  },
+  {
+    "slug": "usa",
+    "url": "https://hyper0123.github.io/ssssssssss/images/usa.png",
+    "country": "usa",
     "type": "national"
   },
   {
