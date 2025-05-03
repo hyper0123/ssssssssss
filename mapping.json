@@ -120,12 +120,6 @@
     "type": "club"
   },
   {
-    "slug": "club-atelteico-bucaramanga-colombia",
-    "url": "https://hyper0123.github.io/ssssssssss/images/club-atelteico-bucaramanga-colombia.png",
-    "country": "colombia",
-    "type": "club"
-  },
-  {
     "slug": "club-athletic-club-espana",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-athletic-club-espana.png",
     "country": "espana",
@@ -171,6 +165,12 @@
     "slug": "club-atletico-boca-juniors-argentina",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-atletico-boca-juniors-argentina.png",
     "country": "argentina",
+    "type": "club"
+  },
+  {
+    "slug": "club-atletico-bucaramanga-colombia",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-atletico-bucaramanga-colombia.png",
+    "country": "colombia",
     "type": "club"
   },
   {
