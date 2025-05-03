@@ -822,12 +822,6 @@
     "type": "club"
   },
   {
-    "slug": "club-u-de-chile-chile",
-    "url": "https://hyper0123.github.io/ssssssssss/images/club-u-de-chile-chile.png",
-    "country": "chile",
-    "type": "club"
-  },
-  {
     "slug": "club-udinese-italia",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-udinese-italia.png",
     "country": "italia",
@@ -848,6 +842,12 @@
   {
     "slug": "club-union-espanola-chile",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-union-espanola-chile.png",
+    "country": "chile",
+    "type": "club"
+  },
+  {
+    "slug": "club-universidad-de-chile-chile",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-universidad-de-chile-chile.png",
     "country": "chile",
     "type": "club"
   },
