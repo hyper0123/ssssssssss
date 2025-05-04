@@ -264,12 +264,6 @@
     "type": "club"
   },
   {
-    "slug": "club-atletico-san-martin-argentina",
-    "url": "https://hyper0123.github.io/ssssssssss/images/club-atletico-san-martin-argentina.png",
-    "country": "argentina",
-    "type": "club"
-  },
-  {
     "slug": "club-atletico-sarmiento-argentina",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-atletico-sarmiento-argentina.png",
     "country": "argentina",
@@ -951,6 +945,12 @@
     "slug": "club-san-antonio-bulo-bulo-bolivia",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-san-antonio-bulo-bulo-bolivia.png",
     "country": "bolivia",
+    "type": "club"
+  },
+  {
+    "slug": "club-san-martin-san-juan-argentina",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-san-martin-san-juan-argentina.png",
+    "country": "argentina",
     "type": "club"
   },
   {
