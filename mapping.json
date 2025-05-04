@@ -606,12 +606,6 @@
     "type": "club"
   },
   {
-    "slug": "club-deportiv-pereira-colombia",
-    "url": "https://hyper0123.github.io/ssssssssss/images/club-deportiv-pereira-colombia.png",
-    "country": "colombia",
-    "type": "club"
-  },
-  {
     "slug": "club-deportivo-alaves-espana",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-deportivo-alaves-espana.png",
     "country": "espana",
@@ -650,6 +644,12 @@
   {
     "slug": "club-deportivo-pasto-colombia",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-deportivo-pasto-colombia.png",
+    "country": "colombia",
+    "type": "club"
+  },
+  {
+    "slug": "club-deportivo-pereira-colombia",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-deportivo-pereira-colombia.png",
     "country": "colombia",
     "type": "club"
   },
