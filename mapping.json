@@ -90,6 +90,18 @@
     "type": "club"
   },
   {
+    "slug": "club-adt-peru",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-adt-peru.png",
+    "country": "peru",
+    "type": "club"
+  },
+  {
+    "slug": "club-alianza-atletico-peru",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-alianza-atletico-peru.png",
+    "country": "peru",
+    "type": "club"
+  },
+  {
     "slug": "club-alianza-lima-peru",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-alianza-lima-peru.png",
     "country": "peru",
@@ -102,15 +114,33 @@
     "type": "club"
   },
   {
+    "slug": "club-alianza-universidad-peru",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-alianza-universidad-peru.png",
+    "country": "peru",
+    "type": "club"
+  },
+  {
     "slug": "club-america-de-cali-colombia",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-america-de-cali-colombia.png",
     "country": "colombia",
     "type": "club"
   },
   {
+    "slug": "club-angers-francia",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-angers-francia.png",
+    "country": "francia",
+    "type": "club"
+  },
+  {
     "slug": "club-antalyaspor-turquia",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-antalyaspor-turquia.png",
     "country": "turquia",
+    "type": "club"
+  },
+  {
+    "slug": "club-arouca-portugal",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-arouca-portugal.png",
+    "country": "portugal",
     "type": "club"
   },
   {
@@ -276,6 +306,12 @@
     "type": "club"
   },
   {
+    "slug": "club-atletico-tembetary-paraguay",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-atletico-tembetary-paraguay.png",
+    "country": "paraguay",
+    "type": "club"
+  },
+  {
     "slug": "club-atletico-tigre-argentina",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-atletico-tigre-argentina.png",
     "country": "argentina",
@@ -297,6 +333,18 @@
     "slug": "club-atletico-velez-sarsfield-argentina",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-atletico-velez-sarsfield-argentina.png",
     "country": "argentina",
+    "type": "club"
+  },
+  {
+    "slug": "club-audax-italiano-chile",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-audax-italiano-chile.png",
+    "country": "chile",
+    "type": "club"
+  },
+  {
+    "slug": "club-auxerre-francia",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-auxerre-francia.png",
+    "country": "francia",
     "type": "club"
   },
   {
@@ -336,6 +384,12 @@
     "type": "club"
   },
   {
+    "slug": "club-binacional-peru",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-binacional-peru.png",
+    "country": "peru",
+    "type": "club"
+  },
+  {
     "slug": "club-bochum-alemania",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-bochum-alemania.png",
     "country": "alemania",
@@ -372,6 +426,12 @@
     "type": "club"
   },
   {
+    "slug": "club-brest-francia",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-brest-francia.png",
+    "country": "francia",
+    "type": "club"
+  },
+  {
     "slug": "club-cadiz-espana",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-cadiz-espana.png",
     "country": "espana",
@@ -387,6 +447,18 @@
     "slug": "club-carabobo-venezuela",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-carabobo-venezuela.png",
     "country": "venezuela",
+    "type": "club"
+  },
+  {
+    "slug": "club-casa-pia-portugal",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-casa-pia-portugal.png",
+    "country": "portugal",
+    "type": "club"
+  },
+  {
+    "slug": "club-cds-tampico-madero-mexico",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-cds-tampico-madero-mexico.png",
+    "country": "mexico",
     "type": "club"
   },
   {
@@ -486,6 +558,12 @@
     "type": "club"
   },
   {
+    "slug": "club-cuniburu-ecuador",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-cuniburu-ecuador.png",
+    "country": "ecuador",
+    "type": "club"
+  },
+  {
     "slug": "club-cusco-peru",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-cusco-peru.png",
     "country": "peru",
@@ -504,6 +582,18 @@
     "type": "club"
   },
   {
+    "slug": "club-delfin-ecuador",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-delfin-ecuador.png",
+    "country": "ecuador",
+    "type": "club"
+  },
+  {
+    "slug": "club-deportes-iquique-chile",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-deportes-iquique-chile.png",
+    "country": "chile",
+    "type": "club"
+  },
+  {
     "slug": "club-deportes-limache-chile",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-deportes-limache-chile.png",
     "country": "chile",
@@ -512,6 +602,12 @@
   {
     "slug": "club-deportes-tolima-colombia",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-deportes-tolima-colombia.png",
+    "country": "colombia",
+    "type": "club"
+  },
+  {
+    "slug": "club-deportiv-pereira-colombia",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-deportiv-pereira-colombia.png",
     "country": "colombia",
     "type": "club"
   },
@@ -552,6 +648,12 @@
     "type": "club"
   },
   {
+    "slug": "club-deportivo-pasto-colombia",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-deportivo-pasto-colombia.png",
+    "country": "colombia",
+    "type": "club"
+  },
+  {
     "slug": "club-deportivo-recoleta-paraguay",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-deportivo-recoleta-paraguay.png",
     "country": "paraguay",
@@ -582,8 +684,20 @@
     "type": "club"
   },
   {
+    "slug": "club-emelec-ecuador",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-emelec-ecuador.png",
+    "country": "ecuador",
+    "type": "club"
+  },
+  {
     "slug": "club-estoril-portugal",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-estoril-portugal.png",
+    "country": "portugal",
+    "type": "club"
+  },
+  {
+    "slug": "club-estrela-portugal",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-estrela-portugal.png",
     "country": "portugal",
     "type": "club"
   },
@@ -636,15 +750,33 @@
     "type": "club"
   },
   {
+    "slug": "club-fortaleza-ceif-colombia",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-fortaleza-ceif-colombia.png",
+    "country": "colombia",
+    "type": "club"
+  },
+  {
     "slug": "club-freiburg-alemania",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-freiburg-alemania.png",
     "country": "alemania",
     "type": "club"
   },
   {
+    "slug": "club-gil-vicente-portugal",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-gil-vicente-portugal.png",
+    "country": "portugal",
+    "type": "club"
+  },
+  {
     "slug": "club-gimnasia-la-plata-argentina",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-gimnasia-la-plata-argentina.png",
     "country": "argentina",
+    "type": "club"
+  },
+  {
+    "slug": "club-gremio-brasil",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-gremio-brasil.png",
+    "country": "brasil",
     "type": "club"
   },
   {
@@ -663,6 +795,12 @@
     "slug": "club-holstein-kiel-alemania",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-holstein-kiel-alemania.png",
     "country": "alemania",
+    "type": "club"
+  },
+  {
+    "slug": "club-huachipato-chile",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-huachipato-chile.png",
+    "country": "chile",
     "type": "club"
   },
   {
@@ -702,6 +840,12 @@
     "type": "club"
   },
   {
+    "slug": "club-juventud-uruguay",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-juventud-uruguay.png",
+    "country": "uruguay",
+    "type": "club"
+  },
+  {
     "slug": "club-juventus-italia",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-juventus-italia.png",
     "country": "italia",
@@ -720,6 +864,12 @@
     "type": "club"
   },
   {
+    "slug": "club-la-serena-chile",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-la-serena-chile.png",
+    "country": "chile",
+    "type": "club"
+  },
+  {
     "slug": "club-lazio-italia",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-lazio-italia.png",
     "country": "italia",
@@ -729,6 +879,18 @@
     "slug": "club-ldu-quito-ecuador",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-ldu-quito-ecuador.png",
     "country": "ecuador",
+    "type": "club"
+  },
+  {
+    "slug": "club-le-havre-francia",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-le-havre-francia.png",
+    "country": "francia",
+    "type": "club"
+  },
+  {
+    "slug": "club-lens-francia",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-lens-francia.png",
+    "country": "francia",
     "type": "club"
   },
   {
@@ -744,9 +906,33 @@
     "type": "club"
   },
   {
+    "slug": "club-lille-francia",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-lille-francia.png",
+    "country": "francia",
+    "type": "club"
+  },
+  {
+    "slug": "club-liverpool-uruguay",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-liverpool-uruguay.png",
+    "country": "uruguay",
+    "type": "club"
+  },
+  {
     "slug": "club-llaneros-colombia",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-llaneros-colombia.png",
     "country": "colombia",
+    "type": "club"
+  },
+  {
+    "slug": "club-los-chankas-peru",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-los-chankas-peru.png",
+    "country": "peru",
+    "type": "club"
+  },
+  {
+    "slug": "club-lyon-francia",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-lyon-francia.png",
+    "country": "francia",
     "type": "club"
   },
   {
@@ -774,9 +960,39 @@
     "type": "club"
   },
   {
+    "slug": "club-marseille-francia",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-marseille-francia.png",
+    "country": "francia",
+    "type": "club"
+  },
+  {
+    "slug": "club-medellin-colombia",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-medellin-colombia.png",
+    "country": "colombia",
+    "type": "club"
+  },
+  {
     "slug": "club-melgar-peru",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-melgar-peru.png",
     "country": "peru",
+    "type": "club"
+  },
+  {
+    "slug": "club-mineros-de-zacatecas-mexico",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-mineros-de-zacatecas-mexico.png",
+    "country": "mexico",
+    "type": "club"
+  },
+  {
+    "slug": "club-miramar-misiones-uruguay",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-miramar-misiones-uruguay.png",
+    "country": "uruguay",
+    "type": "club"
+  },
+  {
+    "slug": "club-montpellier-francia",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-montpellier-francia.png",
+    "country": "francia",
     "type": "club"
   },
   {
@@ -798,9 +1014,21 @@
     "type": "club"
   },
   {
+    "slug": "club-nacional-paraguay",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-nacional-paraguay.png",
+    "country": "paraguay",
+    "type": "club"
+  },
+  {
     "slug": "club-nacional-uruguay",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-nacional-uruguay.png",
     "country": "uruguay",
+    "type": "club"
+  },
+  {
+    "slug": "club-nantes-francia",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-nantes-francia.png",
+    "country": "francia",
     "type": "club"
   },
   {
@@ -828,6 +1056,12 @@
     "type": "club"
   },
   {
+    "slug": "club-nublense-chile",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-nublense-chile.png",
+    "country": "chile",
+    "type": "club"
+  },
+  {
     "slug": "club-o-higgins-chile",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-o-higgins-chile.png",
     "country": "chile",
@@ -837,6 +1071,18 @@
     "slug": "club-olimpia-paraguay",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-olimpia-paraguay.png",
     "country": "paraguay",
+    "type": "club"
+  },
+  {
+    "slug": "club-once-caldas-colombia",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-once-caldas-colombia.png",
+    "country": "colombia",
+    "type": "club"
+  },
+  {
+    "slug": "club-orense-ecuador",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-orense-ecuador.png",
+    "country": "ecuador",
     "type": "club"
   },
   {
@@ -873,6 +1119,12 @@
     "slug": "club-porto-portugal",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-porto-portugal.png",
     "country": "portugal",
+    "type": "club"
+  },
+  {
+    "slug": "club-progreso-uruguay",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-progreso-uruguay.png",
+    "country": "uruguay",
     "type": "club"
   },
   {
@@ -921,6 +1173,24 @@
     "slug": "club-rennes-francia",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-rennes-francia.png",
     "country": "francia",
+    "type": "club"
+  },
+  {
+    "slug": "club-rio-ave-portugal",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-rio-ave-portugal.png",
+    "country": "portugal",
+    "type": "club"
+  },
+  {
+    "slug": "club-rionegro-aguilas-colombia",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-rionegro-aguilas-colombia.png",
+    "country": "colombia",
+    "type": "club"
+  },
+  {
+    "slug": "club-river-plate-uruguay",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-river-plate-uruguay.png",
+    "country": "uruguay",
     "type": "club"
   },
   {
@@ -978,6 +1248,12 @@
     "type": "club"
   },
   {
+    "slug": "club-sport-boys-peru",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-sport-boys-peru.png",
+    "country": "peru",
+    "type": "club"
+  },
+  {
     "slug": "club-sport-huancayo-peru",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-sport-huancayo-peru.png",
     "country": "peru",
@@ -993,6 +1269,18 @@
     "slug": "club-sporting-cristal-peru",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-sporting-cristal-peru.png",
     "country": "peru",
+    "type": "club"
+  },
+  {
+    "slug": "club-sporting-portugal",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-sporting-portugal.png",
+    "country": "portugal",
+    "type": "club"
+  },
+  {
+    "slug": "club-sportivo-ameliano-paraguay",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-sportivo-ameliano-paraguay.png",
+    "country": "paraguay",
     "type": "club"
   },
   {
@@ -1038,6 +1326,12 @@
     "type": "club"
   },
   {
+    "slug": "club-torque-uruguay",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-torque-uruguay.png",
+    "country": "uruguay",
+    "type": "club"
+  },
+  {
     "slug": "club-toulouse-francia",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-toulouse-francia.png",
     "country": "francia",
@@ -1068,6 +1362,18 @@
     "type": "club"
   },
   {
+    "slug": "club-union-la-calera-chile",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-union-la-calera-chile.png",
+    "country": "chile",
+    "type": "club"
+  },
+  {
+    "slug": "club-union-magdalena-colombia",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-union-magdalena-colombia.png",
+    "country": "colombia",
+    "type": "club"
+  },
+  {
     "slug": "club-universidad-catolica-chile",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-universidad-catolica-chile.png",
     "country": "chile",
@@ -1095,6 +1401,12 @@
     "slug": "club-utc-cajamarca-peru",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-utc-cajamarca-peru.png",
     "country": "peru",
+    "type": "club"
+  },
+  {
+    "slug": "club-vasco-de-gama-brasil",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-vasco-de-gama-brasil.png",
+    "country": "brasil",
     "type": "club"
   },
   {
