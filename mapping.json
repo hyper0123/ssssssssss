@@ -504,12 +504,6 @@
     "type": "club"
   },
   {
-    "slug": "club-de-gimnasia-y-esgrima-la-plata-argentina",
-    "url": "https://hyper0123.github.io/ssssssssss/images/club-de-gimnasia-y-esgrima-la-plata-argentina.png",
-    "country": "argentina",
-    "type": "club"
-  },
-  {
     "slug": "club-defensor-sporting-uruguay",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-defensor-sporting-uruguay.png",
     "country": "uruguay",
@@ -651,6 +645,12 @@
     "slug": "club-freiburg-alemania",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-freiburg-alemania.png",
     "country": "alemania",
+    "type": "club"
+  },
+  {
+    "slug": "club-gimnasia-la-plata-argentina",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-gimnasia-la-plata-argentina.png",
+    "country": "argentina",
     "type": "club"
   },
   {
