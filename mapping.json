@@ -366,6 +366,12 @@
     "type": "club"
   },
   {
+    "slug": "club-barranquilla-colombia",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-barranquilla-colombia.png",
+    "country": "colombia",
+    "type": "club"
+  },
+  {
     "slug": "club-bayer-leverkusen-alemania",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-bayer-leverkusen-alemania.png",
     "country": "alemania",
@@ -411,6 +417,12 @@
     "slug": "club-borussia-monchengladbach-alemania",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-borussia-monchengladbach-alemania.png",
     "country": "alemania",
+    "type": "club"
+  },
+  {
+    "slug": "club-boston-river-uruguay",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-boston-river-uruguay.png",
+    "country": "uruguay",
     "type": "club"
   },
   {
@@ -554,6 +566,18 @@
   {
     "slug": "club-cruzeiro-brasil",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-cruzeiro-brasil.png",
+    "country": "brasil",
+    "type": "club"
+  },
+  {
+    "slug": "club-cucuta-deportivo-colombia",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-cucuta-deportivo-colombia.png",
+    "country": "colombia",
+    "type": "club"
+  },
+  {
+    "slug": "club-cuiaba-brasil",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-cuiaba-brasil.png",
     "country": "brasil",
     "type": "club"
   },
@@ -1020,6 +1044,12 @@
     "type": "club"
   },
   {
+    "slug": "club-nacional-potosi-bolivia",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-nacional-potosi-bolivia.png",
+    "country": "bolivia",
+    "type": "club"
+  },
+  {
     "slug": "club-nacional-uruguay",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-nacional-uruguay.png",
     "country": "uruguay",
@@ -1161,6 +1191,18 @@
     "slug": "club-real-betis-espana",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-real-betis-espana.png",
     "country": "espana",
+    "type": "club"
+  },
+  {
+    "slug": "club-real-cartagena-colombia",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-real-cartagena-colombia.png",
+    "country": "colombia",
+    "type": "club"
+  },
+  {
+    "slug": "club-real-santander-colombia",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-real-santander-colombia.png",
+    "country": "colombia",
     "type": "club"
   },
   {
