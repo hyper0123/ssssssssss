@@ -162,6 +162,12 @@
     "type": "club"
   },
   {
+    "slug": "club-athletico-pr-brasil",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-athletico-pr-brasil.png",
+    "country": "brasil",
+    "type": "club"
+  },
+  {
     "slug": "club-atlanta-united-usa",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-atlanta-united-usa.png",
     "country": "usa",
@@ -285,12 +291,6 @@
     "slug": "club-atletico-platense-argentina",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-atletico-platense-argentina.png",
     "country": "argentina",
-    "type": "club"
-  },
-  {
-    "slug": "club-atletico-pr-brasil",
-    "url": "https://hyper0123.github.io/ssssssssss/images/club-atletico-pr-brasil.png",
-    "country": "brasil",
     "type": "club"
   },
   {
