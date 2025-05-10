@@ -438,6 +438,12 @@
     "type": "club"
   },
   {
+    "slug": "club-borussia-m-gladbach-alemania",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-borussia-m-gladbach-alemania.png",
+    "country": "alemania",
+    "type": "club"
+  },
+  {
     "slug": "club-borussia-monchengladbach-alemania",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-borussia-monchengladbach-alemania.png",
     "country": "alemania",
@@ -762,6 +768,12 @@
     "type": "club"
   },
   {
+    "slug": "club-envigado-colombia",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-envigado-colombia.png",
+    "country": "colombia",
+    "type": "club"
+  },
+  {
     "slug": "club-estoril-portugal",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-estoril-portugal.png",
     "country": "portugal",
@@ -924,6 +936,12 @@
     "type": "club"
   },
   {
+    "slug": "club-juventude-brasil",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-juventude-brasil.png",
+    "country": "brasil",
+    "type": "club"
+  },
+  {
     "slug": "club-juventus-italia",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-juventus-italia.png",
     "country": "italia",
@@ -1068,9 +1086,27 @@
     "type": "club"
   },
   {
+    "slug": "club-minnesota-united-usa",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-minnesota-united-usa.png",
+    "country": "usa",
+    "type": "club"
+  },
+  {
     "slug": "club-miramar-misiones-uruguay",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-miramar-misiones-uruguay.png",
     "country": "uruguay",
+    "type": "club"
+  },
+  {
+    "slug": "club-mirassol-brasil",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-mirassol-brasil.png",
+    "country": "brasil",
+    "type": "club"
+  },
+  {
+    "slug": "club-monterrey-mexico",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-monterrey-mexico.png",
+    "country": "mexico",
     "type": "club"
   },
   {
@@ -1416,6 +1452,12 @@
     "type": "club"
   },
   {
+    "slug": "club-strasbourg-francia",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-strasbourg-francia.png",
+    "country": "francia",
+    "type": "club"
+  },
+  {
     "slug": "club-stuttgart-alemania",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-stuttgart-alemania.png",
     "country": "alemania",
@@ -1430,6 +1472,12 @@
   {
     "slug": "club-tigres-uanl-mexico",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-tigres-uanl-mexico.png",
+    "country": "mexico",
+    "type": "club"
+  },
+  {
+    "slug": "club-toluca-mexico",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-toluca-mexico.png",
     "country": "mexico",
     "type": "club"
   },
