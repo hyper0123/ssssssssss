@@ -90,6 +90,12 @@
     "type": "club"
   },
   {
+    "slug": "club-academia-puerto-cabello-venezuela",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-academia-puerto-cabello-venezuela.png",
+    "country": "venezuela",
+    "type": "club"
+  },
+  {
     "slug": "club-adt-peru",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-adt-peru.png",
     "country": "peru",
@@ -600,6 +606,12 @@
     "type": "club"
   },
   {
+    "slug": "club-coventry-city-england",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-coventry-city-england.png",
+    "country": "england",
+    "type": "club"
+  },
+  {
     "slug": "club-crb-brasil",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-crb-brasil.png",
     "country": "brasil",
@@ -675,6 +687,12 @@
     "slug": "club-deportes-limache-chile",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-deportes-limache-chile.png",
     "country": "chile",
+    "type": "club"
+  },
+  {
+    "slug": "club-deportes-quindio-colombia",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-deportes-quindio-colombia.png",
+    "country": "colombia",
     "type": "club"
   },
   {
@@ -1224,6 +1242,12 @@
     "type": "club"
   },
   {
+    "slug": "club-orsomarso-colombia",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-orsomarso-colombia.png",
+    "country": "colombia",
+    "type": "club"
+  },
+  {
     "slug": "club-palestino-chile",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-palestino-chile.png",
     "country": "chile",
@@ -1467,6 +1491,12 @@
     "slug": "club-stuttgart-alemania",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-stuttgart-alemania.png",
     "country": "alemania",
+    "type": "club"
+  },
+  {
+    "slug": "club-sunderland-england",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-sunderland-england.png",
+    "country": "england",
     "type": "club"
   },
   {
