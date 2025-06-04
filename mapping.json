@@ -1,5 +1,11 @@
 [
   {
+    "slug": "alemania",
+    "url": "https://hyper0123.github.io/ssssssssss/images/alemania.png",
+    "country": "alemania",
+    "type": "national"
+  },
+  {
     "slug": "argentina",
     "url": "https://hyper0123.github.io/ssssssssss/images/argentina.png",
     "country": "argentina",
@@ -1740,6 +1746,12 @@
     "type": "club"
   },
   {
+    "slug": "espana",
+    "url": "https://hyper0123.github.io/ssssssssss/images/espana.png",
+    "country": "espana",
+    "type": "national"
+  },
+  {
     "slug": "estados unidos",
     "url": "https://hyper0123.github.io/ssssssssss/images/estados%20unidos.png",
     "country": "estados unidos",
@@ -1750,6 +1762,12 @@
     "url": "https://hyper0123.github.io/ssssssssss/images/everton-football-club-england.png",
     "country": "england",
     "type": "club"
+  },
+  {
+    "slug": "francia",
+    "url": "https://hyper0123.github.io/ssssssssss/images/francia.png",
+    "country": "francia",
+    "type": "national"
   },
   {
     "slug": "fulham-football-club-england",
@@ -1834,6 +1852,12 @@
     "url": "https://hyper0123.github.io/ssssssssss/images/philadelphia-phillies-otros.png",
     "country": "otros",
     "type": "club"
+  },
+  {
+    "slug": "portugal",
+    "url": "https://hyper0123.github.io/ssssssssss/images/portugal.png",
+    "country": "portugal",
+    "type": "national"
   },
   {
     "slug": "psg-football-club-francia",
