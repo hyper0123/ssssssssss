@@ -1,8 +1,20 @@
 [
   {
+    "slug": "albania",
+    "url": "https://hyper0123.github.io/ssssssssss/images/albania.png",
+    "country": "albania",
+    "type": "national"
+  },
+  {
     "slug": "alemania",
     "url": "https://hyper0123.github.io/ssssssssss/images/alemania.png",
     "country": "alemania",
+    "type": "national"
+  },
+  {
+    "slug": "andorra",
+    "url": "https://hyper0123.github.io/ssssssssss/images/andorra.png",
+    "country": "andorra",
     "type": "national"
   },
   {
@@ -28,6 +40,12 @@
     "url": "https://hyper0123.github.io/ssssssssss/images/athletic-football-club-bournemouth-england.png",
     "country": "england",
     "type": "club"
+  },
+  {
+    "slug": "austria",
+    "url": "https://hyper0123.github.io/ssssssssss/images/austria.png",
+    "country": "austria",
+    "type": "national"
   },
   {
     "slug": "bolivia",
@@ -70,6 +88,12 @@
     "url": "https://hyper0123.github.io/ssssssssss/images/brighton-hove-albion-football-club-england.png",
     "country": "england",
     "type": "club"
+  },
+  {
+    "slug": "canada",
+    "url": "https://hyper0123.github.io/ssssssssss/images/canada.png",
+    "country": "canada",
+    "type": "national"
   },
   {
     "slug": "chelsea-football-club-england",
@@ -1734,16 +1758,34 @@
     "type": "club"
   },
   {
+    "slug": "dinamarca",
+    "url": "https://hyper0123.github.io/ssssssssss/images/dinamarca.png",
+    "country": "dinamarca",
+    "type": "national"
+  },
+  {
     "slug": "ecuador",
     "url": "https://hyper0123.github.io/ssssssssss/images/ecuador.png",
     "country": "ecuador",
     "type": "national"
   },
   {
+    "slug": "ee-uu",
+    "url": "https://hyper0123.github.io/ssssssssss/images/ee-uu.png",
+    "country": "uu",
+    "type": "club"
+  },
+  {
     "slug": "empoli-football-club-italia",
     "url": "https://hyper0123.github.io/ssssssssss/images/empoli-football-club-italia.png",
     "country": "italia",
     "type": "club"
+  },
+  {
+    "slug": "eslovaquia",
+    "url": "https://hyper0123.github.io/ssssssssss/images/eslovaquia.png",
+    "country": "eslovaquia",
+    "type": "national"
   },
   {
     "slug": "espana",
@@ -1762,6 +1804,12 @@
     "url": "https://hyper0123.github.io/ssssssssss/images/everton-football-club-england.png",
     "country": "england",
     "type": "club"
+  },
+  {
+    "slug": "finlandia",
+    "url": "https://hyper0123.github.io/ssssssssss/images/finlandia.png",
+    "country": "finlandia",
+    "type": "national"
   },
   {
     "slug": "francia",
@@ -1800,9 +1848,27 @@
     "type": "club"
   },
   {
+    "slug": "grecia",
+    "url": "https://hyper0123.github.io/ssssssssss/images/grecia.png",
+    "country": "grecia",
+    "type": "national"
+  },
+  {
+    "slug": "inglaterra",
+    "url": "https://hyper0123.github.io/ssssssssss/images/inglaterra.png",
+    "country": "inglaterra",
+    "type": "national"
+  },
+  {
     "slug": "ipswich-town-football-club-england",
     "url": "https://hyper0123.github.io/ssssssssss/images/ipswich-town-football-club-england.png",
     "country": "england",
+    "type": "club"
+  },
+  {
+    "slug": "irlanda-del-norte",
+    "url": "https://hyper0123.github.io/ssssssssss/images/irlanda-del-norte.png",
+    "country": "norte",
     "type": "club"
   },
   {
@@ -1830,6 +1896,12 @@
     "type": "club"
   },
   {
+    "slug": "mexico",
+    "url": "https://hyper0123.github.io/ssssssssss/images/mexico.png",
+    "country": "mexico",
+    "type": "national"
+  },
+  {
     "slug": "newcastle-united-football-club-england",
     "url": "https://hyper0123.github.io/ssssssssss/images/newcastle-united-football-club-england.png",
     "country": "england",
@@ -1839,6 +1911,12 @@
     "slug": "nottingham-forest-football-club-england",
     "url": "https://hyper0123.github.io/ssssssssss/images/nottingham-forest-football-club-england.png",
     "country": "england",
+    "type": "club"
+  },
+  {
+    "slug": "paises-bajos",
+    "url": "https://hyper0123.github.io/ssssssssss/images/paises-bajos.png",
+    "country": "bajos",
     "type": "club"
   },
   {
@@ -1908,6 +1986,18 @@
     "type": "club"
   },
   {
+    "slug": "rumania",
+    "url": "https://hyper0123.github.io/ssssssssss/images/rumania.png",
+    "country": "rumania",
+    "type": "national"
+  },
+  {
+    "slug": "serbia",
+    "url": "https://hyper0123.github.io/ssssssssss/images/serbia.png",
+    "country": "serbia",
+    "type": "national"
+  },
+  {
     "slug": "sevilla-futbol-club-espana",
     "url": "https://hyper0123.github.io/ssssssssss/images/sevilla-futbol-club-espana.png",
     "country": "espana",
@@ -1920,6 +2010,12 @@
     "type": "club"
   },
   {
+    "slug": "suiza",
+    "url": "https://hyper0123.github.io/ssssssssss/images/suiza.png",
+    "country": "suiza",
+    "type": "national"
+  },
+  {
     "slug": "toronto-blue-jays-otros",
     "url": "https://hyper0123.github.io/ssssssssss/images/toronto-blue-jays-otros.png",
     "country": "otros",
@@ -1930,6 +2026,18 @@
     "url": "https://hyper0123.github.io/ssssssssss/images/tottenham-hotspur-football-club-england.png",
     "country": "england",
     "type": "club"
+  },
+  {
+    "slug": "turquia",
+    "url": "https://hyper0123.github.io/ssssssssss/images/turquia.png",
+    "country": "turquia",
+    "type": "national"
+  },
+  {
+    "slug": "ucrania",
+    "url": "https://hyper0123.github.io/ssssssssss/images/ucrania.png",
+    "country": "ucrania",
+    "type": "national"
   },
   {
     "slug": "uruguay",
