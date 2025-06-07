@@ -1584,6 +1584,12 @@
     "type": "club"
   },
   {
+    "slug": "club-tapatio-mexico",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-tapatio-mexico.png",
+    "country": "mexico",
+    "type": "club"
+  },
+  {
     "slug": "club-tecnico-universitario-ecuador",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-tecnico-universitario-ecuador.png",
     "country": "ecuador",
@@ -1719,6 +1725,12 @@
     "slug": "club-vitoria-guimaraes-portugal",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-vitoria-guimaraes-portugal.png",
     "country": "portugal",
+    "type": "club"
+  },
+  {
+    "slug": "club-wanderers-uruguay",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-wanderers-uruguay.png",
+    "country": "uruguay",
     "type": "club"
   },
   {
