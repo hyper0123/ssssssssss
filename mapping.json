@@ -402,6 +402,12 @@
     "type": "club"
   },
   {
+    "slug": "club-auckland-city-nuevazelanda",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-auckland-city-nuevazelanda.png",
+    "country": "nuevazelanda",
+    "type": "club"
+  },
+  {
     "slug": "club-audax-italiano-chile",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-audax-italiano-chile.png",
     "country": "chile",
@@ -440,6 +446,12 @@
   {
     "slug": "club-bayer-leverkusen-alemania",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-bayer-leverkusen-alemania.png",
+    "country": "alemania",
+    "type": "club"
+  },
+  {
+    "slug": "club-bayern-munchen-alemania",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-bayern-munchen-alemania.png",
     "country": "alemania",
     "type": "club"
   },
@@ -1485,6 +1497,12 @@
     "slug": "club-sao-paulo-brasil",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-sao-paulo-brasil.png",
     "country": "brasil",
+    "type": "club"
+  },
+  {
+    "slug": "club-seattle-sounders-fc-usa",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-seattle-sounders-fc-usa.png",
+    "country": "usa",
     "type": "club"
   },
   {
