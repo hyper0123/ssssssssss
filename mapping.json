@@ -1008,6 +1008,12 @@
     "type": "club"
   },
   {
+    "slug": "club-internazionale-italia",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-internazionale-italia.png",
+    "country": "italia",
+    "type": "club"
+  },
+  {
     "slug": "club-juan-pablo-ii-college-peru",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-juan-pablo-ii-college-peru.png",
     "country": "peru",
@@ -1137,6 +1143,12 @@
     "slug": "club-mainz-05-alemania",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-mainz-05-alemania.png",
     "country": "alemania",
+    "type": "club"
+  },
+  {
+    "slug": "club-mamelodi-sundowns-surafrica",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-mamelodi-sundowns-surafrica.png",
+    "country": "surafrica",
     "type": "club"
   },
   {
@@ -1668,6 +1680,12 @@
     "type": "club"
   },
   {
+    "slug": "club-ulsan-surcorea",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-ulsan-surcorea.png",
+    "country": "surcorea",
+    "type": "club"
+  },
+  {
     "slug": "club-union-berlin-alemania",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-union-berlin-alemania.png",
     "country": "alemania",
@@ -1713,6 +1731,12 @@
     "slug": "club-universitario-peru",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-universitario-peru.png",
     "country": "peru",
+    "type": "club"
+  },
+  {
+    "slug": "club-urawa-reds-japon",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-urawa-reds-japon.png",
+    "country": "japon",
     "type": "club"
   },
   {
