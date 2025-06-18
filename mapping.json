@@ -138,6 +138,18 @@
     "type": "club"
   },
   {
+    "slug": "club-al-ain-emiratos",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-al-ain-emiratos.png",
+    "country": "emiratos",
+    "type": "club"
+  },
+  {
+    "slug": "club-al-hilal-arabia",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-al-hilal-arabia.png",
+    "country": "arabia",
+    "type": "club"
+  },
+  {
     "slug": "club-alianza-atletico-peru",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-alianza-atletico-peru.png",
     "country": "peru",
@@ -1350,6 +1362,12 @@
     "type": "club"
   },
   {
+    "slug": "club-pachuca-mexico",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-pachuca-mexico.png",
+    "country": "mexico",
+    "type": "club"
+  },
+  {
     "slug": "club-palestino-chile",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-palestino-chile.png",
     "country": "chile",
@@ -1485,6 +1503,12 @@
     "slug": "club-saint-monaco-francia",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-saint-monaco-francia.png",
     "country": "francia",
+    "type": "club"
+  },
+  {
+    "slug": "club-salzburg-austria",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-salzburg-austria.png",
+    "country": "austria",
     "type": "club"
   },
   {
@@ -1809,6 +1833,12 @@
     "slug": "club-wolfsburg-alemania",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-wolfsburg-alemania.png",
     "country": "alemania",
+    "type": "club"
+  },
+  {
+    "slug": "club-wydad-casablanca-marruecos",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-wydad-casablanca-marruecos.png",
+    "country": "marruecos",
     "type": "club"
   },
   {
