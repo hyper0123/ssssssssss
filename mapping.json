@@ -276,6 +276,12 @@
     "type": "club"
   },
   {
+    "slug": "club-atletico-de-madrid-espana",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-atletico-de-madrid-espana.png",
+    "country": "espana",
+    "type": "club"
+  },
+  {
     "slug": "club-atletico-grau-peru",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-atletico-grau-peru.png",
     "country": "peru",
@@ -858,6 +864,12 @@
     "type": "club"
   },
   {
+    "slug": "club-elche-espana",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-elche-espana.png",
+    "country": "espana",
+    "type": "club"
+  },
+  {
     "slug": "club-emelec-ecuador",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-emelec-ecuador.png",
     "country": "ecuador",
@@ -1101,6 +1113,12 @@
     "slug": "club-leones-negros-udeg-mexico",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-leones-negros-udeg-mexico.png",
     "country": "mexico",
+    "type": "club"
+  },
+  {
+    "slug": "club-levante-espana",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-levante-espana.png",
+    "country": "espana",
     "type": "club"
   },
   {
