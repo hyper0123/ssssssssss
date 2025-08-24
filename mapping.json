@@ -636,6 +636,12 @@
     "type": "club"
   },
   {
+    "slug": "club-cerro-ca-uruguay",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-cerro-ca-uruguay.png",
+    "country": "uruguay",
+    "type": "club"
+  },
+  {
     "slug": "club-cerro-largo-uruguay",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-cerro-largo-uruguay.png",
     "country": "uruguay",
@@ -1182,6 +1188,12 @@
     "type": "club"
   },
   {
+    "slug": "club-liverpool-m-uruguay",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-liverpool-m-uruguay.png",
+    "country": "uruguay",
+    "type": "club"
+  },
+  {
     "slug": "club-liverpool-uruguay",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-liverpool-uruguay.png",
     "country": "uruguay",
@@ -1299,6 +1311,12 @@
     "slug": "club-monterrey-mexico",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-monterrey-mexico.png",
     "country": "mexico",
+    "type": "club"
+  },
+  {
+    "slug": "club-montevideo-city-uruguay",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-montevideo-city-uruguay.png",
+    "country": "uruguay",
     "type": "club"
   },
   {
@@ -1484,6 +1502,12 @@
   {
     "slug": "club-progreso-uruguay",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-progreso-uruguay.png",
+    "country": "uruguay",
+    "type": "club"
+  },
+  {
+    "slug": "club-racing-montevideo-uruguay",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-racing-montevideo-uruguay.png",
     "country": "uruguay",
     "type": "club"
   },
