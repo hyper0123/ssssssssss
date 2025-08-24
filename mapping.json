@@ -930,6 +930,12 @@
     "type": "club"
   },
   {
+    "slug": "club-fc-nantes-francia",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-fc-nantes-francia.png",
+    "country": "francia",
+    "type": "club"
+  },
+  {
     "slug": "club-fiorentina-italia",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-fiorentina-italia.png",
     "country": "italia",
@@ -1155,6 +1161,12 @@
     "slug": "club-llaneros-colombia",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-llaneros-colombia.png",
     "country": "colombia",
+    "type": "club"
+  },
+  {
+    "slug": "club-lorient-francia",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-lorient-francia.png",
+    "country": "francia",
     "type": "club"
   },
   {
@@ -1683,6 +1695,18 @@
     "slug": "club-st-pauli-alemania",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-st-pauli-alemania.png",
     "country": "alemania",
+    "type": "club"
+  },
+  {
+    "slug": "club-stade-rennais-francia",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-stade-rennais-francia.png",
+    "country": "francia",
+    "type": "club"
+  },
+  {
+    "slug": "club-strasbourg-alsacre-francia",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-strasbourg-alsacre-francia.png",
+    "country": "francia",
     "type": "club"
   },
   {
