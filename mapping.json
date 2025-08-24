@@ -132,6 +132,12 @@
     "type": "club"
   },
   {
+    "slug": "club-aguilas-doradas-colombia",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-aguilas-doradas-colombia.png",
+    "country": "colombia",
+    "type": "club"
+  },
+  {
     "slug": "club-al-ahly-egipto",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-al-ahly-egipto.png",
     "country": "egipto",
@@ -219,6 +225,18 @@
     "slug": "club-athletico-pr-brasil",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-athletico-pr-brasil.png",
     "country": "brasil",
+    "type": "club"
+  },
+  {
+    "slug": "club-atl-bucaramanga-colombia",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-atl-bucaramanga-colombia.png",
+    "country": "colombia",
+    "type": "club"
+  },
+  {
+    "slug": "club-atl-nacional-colombia",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-atl-nacional-colombia.png",
+    "country": "colombia",
     "type": "club"
   },
   {
@@ -1767,6 +1785,12 @@
     "slug": "club-toulouse-francia",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-toulouse-francia.png",
     "country": "francia",
+    "type": "club"
+  },
+  {
+    "slug": "club-u-magdalena-colombia",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-u-magdalena-colombia.png",
+    "country": "colombia",
     "type": "club"
   },
   {
