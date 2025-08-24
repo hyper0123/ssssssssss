@@ -126,6 +126,12 @@
     "type": "club"
   },
   {
+    "slug": "club-ad-tarma-peru",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-ad-tarma-peru.png",
+    "country": "peru",
+    "type": "club"
+  },
+  {
     "slug": "club-adt-peru",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-adt-peru.png",
     "country": "peru",
@@ -1044,6 +1050,12 @@
     "type": "club"
   },
   {
+    "slug": "club-ind-del-valle-ecuador",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-ind-del-valle-ecuador.png",
+    "country": "ecuador",
+    "type": "club"
+  },
+  {
     "slug": "club-independiente-del-valle-ecuador",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-independiente-del-valle-ecuador.png",
     "country": "ecuador",
@@ -1785,6 +1797,12 @@
     "slug": "club-toulouse-francia",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-toulouse-francia.png",
     "country": "francia",
+    "type": "club"
+  },
+  {
+    "slug": "club-u-catolica-ecuador",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-u-catolica-ecuador.png",
+    "country": "ecuador",
     "type": "club"
   },
   {
