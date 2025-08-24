@@ -192,6 +192,12 @@
     "type": "club"
   },
   {
+    "slug": "club-america-mexico",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-america-mexico.png",
+    "country": "mexico",
+    "type": "club"
+  },
+  {
     "slug": "club-angers-sco-francia",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-angers-sco-francia.png",
     "country": "francia",
@@ -249,6 +255,12 @@
     "slug": "club-atlanta-united-usa",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-atlanta-united-usa.png",
     "country": "usa",
+    "type": "club"
+  },
+  {
+    "slug": "club-atlas-mexico",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-atlas-mexico.png",
+    "country": "mexico",
     "type": "club"
   },
   {
@@ -1503,6 +1515,18 @@
     "slug": "club-progreso-uruguay",
     "url": "https://hyper0123.github.io/ssssssssss/images/club-progreso-uruguay.png",
     "country": "uruguay",
+    "type": "club"
+  },
+  {
+    "slug": "club-puebla-mexico",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-puebla-mexico.png",
+    "country": "mexico",
+    "type": "club"
+  },
+  {
+    "slug": "club-pumas-unam-mexico",
+    "url": "https://hyper0123.github.io/ssssssssss/images/club-pumas-unam-mexico.png",
+    "country": "mexico",
     "type": "club"
   },
   {
